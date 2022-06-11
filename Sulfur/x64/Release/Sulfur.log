@@ -1,0 +1,13 @@
+﻿  dllmain.cpp
+C:\Users\Jacobb\Desktop\Sulfur 1.8\Sulfur\SDK\FN_Basic.hpp(290,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\Jacobb\Desktop\Sulfur 1.8\Sulfur\Replicator.h(344,22): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Jacobb\Desktop\Sulfur 1.8\Sulfur\Replicator.h(344,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Jacobb\Desktop\Sulfur 1.8\Sulfur\Replicator.h(344,66): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Jacobb\Desktop\Sulfur 1.8\Sulfur\Replicator.h(349,21): warning C4804: '<': unsafe use of type 'bool' in operation
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  7 of 289 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sulfur.vcxproj -> C:\Users\Jacobb\Desktop\Sulfur 1.8\x64\Release\Sulfur.dll
